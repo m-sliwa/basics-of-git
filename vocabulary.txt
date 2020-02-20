@@ -1,0 +1,34 @@
+comprehensive wszechstronny
+record rejestrowac/zapisac
+set of files zestaw plikow
+over time - w czasie, z biegiem czasu
+recall odwo³aæ, odwo³anie
+tracking changes sledzenie zmian
+among posrod, miedzy
+distibute rozpowszechniac
+necessarily - koniecznie
+rely polegac
+to store przechowac
+instead zamiast tego
+cause przyczyna, spowodowac
+revert back cofnoac, przywrocic
+inital poczatkowy
+jump to and fro skakac tam i z powrotem
+independently niezaleznie
+merge ³¹czyæ
+ensure zapewniæ
+most recent najnowszy
+command polecenia
+workflow przeplyw pracy
+working directory katalog roboczy
+staging area obszar przejsciowy
+remote zdalne
+consider rozwa¿aæ
+fetch sprowadzac
+branch oddzia³, ga³¹Ÿ
+spreadsheet arkusz
+definitive ostateczna
+associated powi¹zany
+contributors autorzy
+brief krótko
+revert odwróæ, przywróæ
